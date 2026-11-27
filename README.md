@@ -4,6 +4,7 @@ A hands-on notebook project for learning how raw text is prepared for a large la
 
 YouTube: https://www.youtube.com/playlist?list=PLBwE3Q2KZ4kM
 
+A large language model (LLM) is an artificial intelligence model trained on massive amounts of text to understand, generate, and work with human language.
 
 ## Project Status
 
